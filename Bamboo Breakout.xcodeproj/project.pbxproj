@@ -156,6 +156,7 @@
 				TargetAttributes = {
 					F577B38A1CB81F840005E827 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 2QDSJ2H338;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -329,9 +330,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2QDSJ2H338;
 				INFOPLIST_FILE = "Bamboo Breakout/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.razeware.Bamboo-Breakout";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stpatschool.Pixel-Breakout";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -341,9 +343,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2QDSJ2H338;
 				INFOPLIST_FILE = "Bamboo Breakout/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.razeware.Bamboo-Breakout";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.stpatschool.Pixel-Breakout";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
